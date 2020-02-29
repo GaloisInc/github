@@ -222,9 +222,6 @@ module GitHub (
     -- * Delete a comment
     pullRequestCommentsR,
     pullRequestCommentR,
-    pullRequestCommentsWithReactionsR,
-    pullRequestCommentsWithReactionsIO,
-    pullRequestCommentsIO,
     createPullCommentR,
     createPullCommentReplyR,
 
